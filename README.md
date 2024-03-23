@@ -18,6 +18,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 '''Program to solve a matrix using Gaussian elimination without partial pivoting.
 
 Developed by: SATHYAA R
+
 RegisterNumber: 212223100052
 '''
 ```
