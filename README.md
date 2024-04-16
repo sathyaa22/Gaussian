@@ -15,12 +15,11 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Program:
 
-'''Program to solve a matrix using Gaussian elimination without partial pivoting.
+Program to solve a matrix using Gaussian elimination without partial pivoting.
+Developed by: RAMYA R
 
-Developed by: SATHYAA R
+RegisterNumber: 212223230169
 
-RegisterNumber: 212223100052
-'''
 ```
 import numpy as np
 n=int(input())
@@ -46,9 +45,9 @@ for i in range(n):
 ```
 
 ## Output:
-![alt text](<Screenshot 2024-03-20 090549.png>)
-![alt text](<Screenshot 2024-03-20 090618.png>)
 
+![alt text](image.png)
+![alt text](image-1.png)
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
